@@ -1,0 +1,3 @@
+/Users/tsaihuiyu/CLionProjects/hw1_F74096108/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/tsaihuiyu/CLionProjects/hw1_F74096108/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tsaihuiyu/CLionProjects/hw1_F74096108/cmake-build-debug/CMakeFiles/hw1_F74096108.dir
